@@ -1,0 +1,39 @@
+body {
+    font-family: "Courier New", monospace;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 160px; /* Doubled the height */
+    border: 5pt solid black;
+    background-color: pink;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+.section {
+    width: 100%;
+    padding: 40px 0;
+    text-align: center;
+}
+
+#about {
+    background-color: lavender;
+}
+
+#dining {
+    background-color: white;
+}
+
+#beauty {
+    background-color: pink;
+}
+
+#travel {
+   
